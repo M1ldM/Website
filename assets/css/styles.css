@@ -6,7 +6,7 @@
  Purchase:
  Support:
  License:
- Copyright 2026.
+ Copyright 2026
  --------------------------------------------------*/
 div.container-bg {
     background-image: url('https://raw.githubusercontent.com/M1ldM/Website/main/assets/images/bg-fixed-2.jpg'); /* Path to your image */
@@ -85,4 +85,12 @@ body {
 .inline-heading {
     display: inline-block; /* Makes the headings inline */
     margin-right: 20px;   /* Adds space between the headings */
+}
+div.tile {
+    display: flex; /* Align items horizontally */
+    align-items: center; /* Center vertically */
+    background-color: black; /* Set background color for contrast */
+    Width: 30vw;
+    height: 300px;
+    overflow: auto;       /* scrollbar appears only when needed */
 }
