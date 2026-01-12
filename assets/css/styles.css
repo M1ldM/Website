@@ -9,7 +9,7 @@
  Copyright 2026.
  --------------------------------------------------*/
 div.container-bg {
-    background-image: url('./assets/images/bg-fixed-2.jpg'); /* Path to your image */
+    background-image: url('https://github.com/M1ldM/Website/raw/main/assets/images/bg-fixed-2.jpg'); /* Path to your image */
     background-size: cover; /* Cover the entire div */
     background-position: center; /* Center the image */
     background-attachment: fixed; /* Fixed position when scrolling */
