@@ -87,7 +87,7 @@ body {
     margin-right: 20px;   /* Adds space between the headings */
 }
 div.tile {
-    display: flex; /* Align items horizontally */
+    display: block; /* Align items vertically */
     align-items: center; /* Center vertically */
     background-color: black; /* Set background color for contrast */
     Width: 30vw;
